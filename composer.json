@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\victorEcommerce\\php-classes\\src"
+            "VictorEcommerce\\": "vendor\\victorEcommerce\\php-classes\\src"
         }
     }
 }
